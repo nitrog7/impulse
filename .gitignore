@@ -1,0 +1,8 @@
+.idea
+.DS_STORE
+build/reports/
+common/
+coverage/
+node_modules/
+tmp/
+dev/
