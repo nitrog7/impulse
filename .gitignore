@@ -1,8 +1,8 @@
-.idea
 .DS_STORE
-build/reports/
-common/
-coverage/
-node_modules/
-tmp/
-dev/
+*.log
+.idea
+/node_modules
+/dist
+/dev
+/coverage
+/tmp
